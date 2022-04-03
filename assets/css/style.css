@@ -808,6 +808,12 @@ h6 {
     height: 250px;
   }
 
+  .video-area .icon-play i {
+    width: 50px;
+    height: 50px;
+    font-size: 1rem;
+  }
+
   .video-area .next-video i {
     margin-left: 60px;
     font-size: 1.3rem;
